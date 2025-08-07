@@ -1,0 +1,242 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="TREASURY"
+ORG_URL="https://treasury.lol"
+ORG_DBA="Revenue-Sharing Mechanisms"
+ORG_LOGO="https://treasury.lol/images/treasury.png"
+ORG_DESCRIPTION="TREASURY is a digital asset issued on the Stellar blockchain, representing a unit of value tied to the financial reserves or operational treasury of [Issuing Organization]. It may be used for internal accounting, investor transparency, revenue distribution, or as a stablecoin-like instrument backed by real-world assets. Each TREASURY token is redeemable or backed according to the issuer's published terms."
+
+[[CURRENCIES]]
+code="TBill4W"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="4-Week Treasury Bill"
+desc="4-Week Treasury Bill"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TBill4W"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TBill8W"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="8-Week Treasury Bill"
+desc="8-Week Treasury Bill"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TBill8W"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TBill13W"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="13-Week Treasury Bill"
+desc="13-Week Treasury Bill"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TBill13W"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TBill26W"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="26-Week Treasury Bill"
+desc="26-Week Treasury Bill"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TBill26W"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TBill52W"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="52-Week Treasury Bill"
+desc="52-Week Treasury Bill"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TBill52W"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TNote2Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="2-Year Treasury Note"
+desc="2-Year Treasury Note"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TNote2Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TNote3Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="3-Year Treasury Note"
+desc="3-Year Treasury Note"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TNote3Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TNote5Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="5-Year Treasury Note"
+desc="5-Year Treasury Note"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TNote5Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TNote7Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="7-Year Treasury Note"
+desc="7-Year Treasury Note"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TNote7Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TNote10Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="10-Year Treasury Note"
+desc="10-Year Treasury Note"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="other"
+anchor_asset="TNote10Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TBond10Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="10-Year Treasury Bond"
+desc="10-Year Treasury Bond"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="bond"
+anchor_asset="TBond10Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TBond20Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="20-Year Treasury Bond"
+desc="20-Year Treasury Bond"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="bond"
+anchor_asset="TBond20Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TBond30Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="30-Year Treasury Bond"
+desc="30-Year Treasury Bond"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="bond"
+anchor_asset="TBond30Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TIPS5Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="5-Year Treasury Inflation-Protected Security"
+desc="5-Year Treasury Inflation-Protected Security"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="bond"
+anchor_asset="TIPS5Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TIPS10Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="10-Year Treasury Inflation-Protected Security"
+desc="10-Year Treasury Inflation-Protected Security"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="bond"
+anchor_asset="TIPS10Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="TIPS30Y"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="30-Year Treasury Inflation-Protected Security"
+desc="30-Year Treasury Inflation-Protected Security"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="bond"
+anchor_asset="TIPS30Y"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="EEBond"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="Series EE Savings Bond"
+desc="Series EE Savings Bond"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="bond"
+anchor_asset="EEBond"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
+
+[[CURRENCIES]]
+code="IEBond"
+issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
+name="Series I Savings Bond"
+desc="Series I Savings Bond"
+is_asset_anchored=true
+regulated=true
+anchor_asset_type="bond"
+anchor_asset="IEBond"
+display_decimals=7
+image="https://treasury.lol/images/treasury.png"
+status="live"
