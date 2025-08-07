@@ -151,32 +151,6 @@ image="https://treasury.lol/images/treasury.png"
 status="live"
 
 [[CURRENCIES]]
-code="TBond20Y"
-issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
-name="20-Year Treasury Bond"
-desc="20-Year Treasury Bond"
-is_asset_anchored=true
-regulated=true
-anchor_asset_type="bond"
-anchor_asset="TBond20Y"
-display_decimals=7
-image="https://treasury.lol/images/treasury.png"
-status="live"
-
-[[CURRENCIES]]
-code="TBond30Y"
-issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
-name="30-Year Treasury Bond"
-desc="30-Year Treasury Bond"
-is_asset_anchored=true
-regulated=true
-anchor_asset_type="bond"
-anchor_asset="TBond30Y"
-display_decimals=7
-image="https://treasury.lol/images/treasury.png"
-status="live"
-
-[[CURRENCIES]]
 code="TIPS5Y"
 issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
 name="5-Year Treasury Inflation-Protected Security"
@@ -185,19 +159,6 @@ is_asset_anchored=true
 regulated=true
 anchor_asset_type="bond"
 anchor_asset="TIPS5Y"
-display_decimals=7
-image="https://treasury.lol/images/treasury.png"
-status="live"
-
-[[CURRENCIES]]
-code="TIPS10Y"
-issuer="GAQ6HJPCQXWDWIXCRPHJSHENSJDJ3TDLRSFNAZKOPKOH33KHGU7KGWB2"
-name="10-Year Treasury Inflation-Protected Security"
-desc="10-Year Treasury Inflation-Protected Security"
-is_asset_anchored=true
-regulated=true
-anchor_asset_type="bond"
-anchor_asset="TIPS10Y"
 display_decimals=7
 image="https://treasury.lol/images/treasury.png"
 status="live"
